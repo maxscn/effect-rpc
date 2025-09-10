@@ -1,0 +1,26 @@
+{
+	"name": "server",
+	"main": "src/server.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "bun run --hot src/server.ts"
+	},
+	"dependencies": {
+		"@effect/experimental": "^0.54.6",
+		"@effect/platform": "^0.90.8",
+		"@effect/platform-bun": "^0.79.0",
+		"@effect/platform-node": "^0.96.1",
+		"@effect/rpc": "^0.69.2",
+		"@effect/sql": "^0.44.2",
+		"@effect/sql-drizzle": "^0.43.0",
+		"@effect/sql-pg": "^0.45.1",
+		"@effect/workflow": "^0.9.5",
+		"dotenv": "^17.2.1",
+		"effect": "^3.17.13"
+	},
+	"devDependencies": {
+		"typescript": "^5.8.2",
+		"@types/bun": "^1.2.6",
+		"@types/pg": "^8.11.11"
+	}
+}

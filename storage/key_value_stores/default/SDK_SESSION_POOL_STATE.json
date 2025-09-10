@@ -1,0 +1,334 @@
+{
+	"usableSessionsCount": 6,
+	"retiredSessionsCount": 0,
+	"sessions": [
+		{
+			"id": "session_Fnqmtns5oZ",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": []
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:27.219Z",
+			"createdAt": "2025-09-08T10:45:27.219Z",
+			"usageCount": 0,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		},
+		{
+			"id": "session_FyFfLS8uJo",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": [
+					{
+						"key": "__uzma",
+						"value": "7fe78a67-7e24-4471-bec7-21e8194c0fee",
+						"expires": "2026-03-09T10:45:28.380Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmb",
+						"value": "1757328327",
+						"expires": "2026-03-09T10:45:28.380Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzme",
+						"value": "4119",
+						"expires": "2026-03-09T10:45:28.380Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmc",
+						"value": "216901989464",
+						"expires": "2026-03-09T10:45:32.760Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "__uzmd",
+						"value": "1757328331",
+						"expires": "2026-03-09T10:45:32.760Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "__uzmf",
+						"value": "7f90007fe78a67-7e24-4471-bec7-21e8194c0fee1-17573283282564402-0007194d9eae645764219",
+						"expires": "2026-03-09T10:45:32.760Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "uzmx",
+						"value": "7f90005ece1c63-86bb-4ef8-8a2f-23a520c1d5b11-17573283282564402-80f72682990bd19319",
+						"expires": "2026-03-09T10:45:32.760Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"httpOnly": true,
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.386Z"
+					},
+					{
+						"key": "__ssds",
+						"value": "0",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.385Z"
+					},
+					{
+						"key": "__ssuzjsr0",
+						"value": "a9be0cd8e",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmaj0",
+						"value": "7fe78a67-7e24-4471-bec7-21e8194c0fee",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmbj0",
+						"value": "1757328329",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmcj0",
+						"value": "386361690991",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "__uzmdj0",
+						"value": "1757328332",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "__uzmlj0",
+						"value": "y882we/z0nADRlS5a2QdzGCGwldsOorMM4gveYWiVpc=",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "__uzmfj0",
+						"value": "7f90007fe78a67-7e24-4471-bec7-21e8194c0fee1-17573283291963756-000ff2508d87a84499b16",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.032Z"
+					},
+					{
+						"key": "uzmxj",
+						"value": "7f90005ece1c63-86bb-4ef8-8a2f-23a520c1d5b11-17573283291963756-14222c7c4f2b9a2316",
+						"expires": "2026-03-07T11:45:32.000Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:30.743Z",
+						"lastAccessed": "2025-09-08T10:45:33.386Z"
+					},
+					{
+						"key": "userCountry",
+						"value": "SE",
+						"expires": "2025-09-15T10:45:32.000Z",
+						"domain": "knowledge-center.solaredge.com",
+						"path": "/",
+						"hostOnly": true,
+						"creation": "2025-09-08T10:45:30.744Z",
+						"lastAccessed": "2025-09-08T10:45:33.031Z"
+					},
+					{
+						"key": "cookieyes-consent",
+						"value": "consentid:SzdTS1l6enJMd0RDOWlGNE0yWWJxV2g3elQ3Qnd4TmM,consent:no,action:,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no",
+						"expires": "2026-09-08T10:45:33.000Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"secure": true,
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:30.744Z",
+						"lastAccessed": "2025-09-08T10:45:33.386Z"
+					},
+					{
+						"key": "_clck",
+						"value": "11qjnmb%5E2%5Efz5%5E0%5E2077",
+						"expires": "2026-09-08T10:45:33.000Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:32.384Z",
+						"lastAccessed": "2025-09-08T10:45:33.386Z"
+					},
+					{
+						"key": "_clsk",
+						"expires": "2025-09-08T11:35:33.385Z",
+						"domain": "solaredge.com",
+						"path": "/",
+						"hostOnly": false,
+						"creation": "2025-09-08T10:45:33.386Z",
+						"lastAccessed": "2025-09-08T10:45:33.386Z"
+					}
+				]
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:27.221Z",
+			"createdAt": "2025-09-08T10:45:27.221Z",
+			"usageCount": 5,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		},
+		{
+			"id": "session_HO6PqilyKi",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": []
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:30.808Z",
+			"createdAt": "2025-09-08T10:45:30.808Z",
+			"usageCount": 0,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		},
+		{
+			"id": "session_i8WNm5Sck9",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": []
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:30.809Z",
+			"createdAt": "2025-09-08T10:45:30.809Z",
+			"usageCount": 0,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		},
+		{
+			"id": "session_6fMv8uYeCj",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": []
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:31.868Z",
+			"createdAt": "2025-09-08T10:45:31.868Z",
+			"usageCount": 0,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		},
+		{
+			"id": "session_bMhudWdzyb",
+			"cookieJar": {
+				"version": "tough-cookie@5.1.2",
+				"storeType": "MemoryCookieStore",
+				"rejectPublicSuffixes": true,
+				"enableLooseMode": false,
+				"allowSpecialUseDomain": true,
+				"prefixSecurity": "silent",
+				"cookies": []
+			},
+			"userData": {},
+			"maxErrorScore": 3,
+			"errorScoreDecrement": 0.5,
+			"expiresAt": "2025-09-08T11:35:32.424Z",
+			"createdAt": "2025-09-08T10:45:32.424Z",
+			"usageCount": 0,
+			"maxUsageCount": 50,
+			"errorScore": 0
+		}
+	]
+}

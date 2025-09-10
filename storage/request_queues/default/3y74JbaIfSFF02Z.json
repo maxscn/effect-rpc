@@ -1,0 +1,9 @@
+{
+	"id": "3y74JbaIfSFF02Z",
+	"json": "{\"id\":\"3y74JbaIfSFF02Z\",\"url\":\"https://knowledge-center.solaredge.com/\",\"loadedUrl\":\"https://knowledge-center.solaredge.com/swe/search?search=&sort_by=search_api_relevance&f%5B0%5D=language%3A1486\",\"uniqueKey\":\"https://knowledge-center.solaredge.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2025-09-08T10:45:30.794Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://knowledge-center.solaredge.com",
+	"url": "https://knowledge-center.solaredge.com/"
+}
